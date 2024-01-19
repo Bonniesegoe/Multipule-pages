@@ -8,5 +8,14 @@ h1 {
 }
 
 a {
+    text-align: center;
     color: white;
+}
+
+p {
+    text-align: center;
+}
+
+.one {
+    text-align: center;
 }
